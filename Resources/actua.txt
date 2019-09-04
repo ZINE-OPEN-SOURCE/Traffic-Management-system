@@ -1,0 +1,37 @@
+actuated traffic signals and pre traffic sigals
+induction loop detector
+flexible, automatic adjustment according to traffic
+cost
+[1] Andrew P. Nichols ‘Adaptive Traffic Signal Control’ WVDOH/MPO/FHWA Planning Conference 10/3/2012.
+
+[2] Arif A. Bookseller, Rupali R Jagtap ‘Image processing based Adaptive Traffic Control System’, Second International Conference. on Emerging Trends in Engineering (SICETE), IOSR Journal of Electronics and Communication Engineering (IOSR-JECE) , PP: 33-37.
+
+[3] Emin Basic, Yasser De Jesus, Ashrafur Rahman ‘Adaptive Signal Control Technology: Current Practice and Comparison’, Intelligent Transportation Society of Connecticut, Student Research Project, Spring 2012.
+
+[4] OvidiuTomescuIlonaMadalinaMoise, Alina Elena Stanciu, LulianBatros‘Adaptive Traffic Light Control System using Adhoc Vehicular Communication Networks’ U.P.B. Sci. Bull., Series D, Vol. 74, Iss. 2, 2012.
+
+The current traffic control system (TCS) in the metro cities of India are inefficient due to randomness in the traffic density pattern throughout the day. The traffic signal timers have a fixed time period to switch traffic between different directions.
+Due to this, the vehicles have to wait for a long time span even if the traffic density is very less.
+
+The proposed system adapts the traffic signal timer according to the random traffic density using image processing techniques.
+
+The objective is to design an intelligent traffic signal control system algorithm with the use of sensing devices and image processing systems.
+
+Adaptive traffic light timer controller (ATLTC)
+
+Cities that are experiencing rapid growth face a variety of challenges, as they expand and become increasingly complex. Traffic is one of the most significant challenges: congested roads are a strain on the environment, the economy and the overall quality of life. Finding smart ways to keep cities growing is crucial to our increasingly urban future.
+
+Coordinated Signal Control
+• A technique to reduce stopped delay and improve travel time
+• Provides progressive green signal at consecutive intersections
+when travelled at specified speed
+
+• Increased lane carrying capacity and travel speeds
+• Reduction in delay, stops, queue, fuel consumption,
+emissions and drop in accident rate 
+• Better Traffic Management - Green Wave Routes,
+Diversions, Incidents Detection
+
+SCOOT Delhi
+ITACA Mumbai
+CoSiCoSt Jaipur
