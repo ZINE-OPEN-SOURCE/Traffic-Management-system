@@ -8,7 +8,7 @@ arr4 = numpy.array([[0]*4]*10)
 
 a = [0]*16
 for i in range(16):
-    a[i] = random.randrange(1,11)
+    a[i] = random.randrange(0,11)
 
 print(a)
 print()
